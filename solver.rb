@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Solver to solve challenges
 class Solver
   def factorial(num)
