@@ -1,4 +1,4 @@
-## Copyright 2022, [UKISHAKA LEVY & STEVE W DAMES JR]
+## Copyright 2022, [UKWISHAKA LEVY & STEVE W DAMES JR]
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this [TEST DRIVEN DEVELOPMENT] and associated documentation files, to deal in the [TEST DRIVEN DEVELOPMENT] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [TEST DRIVEN DEVELOPMENT], and to permit persons to whom the [TEST DRIVEN DEVELOPMENT] is furnished to do so, subject to the following conditions:

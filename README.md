@@ -80,7 +80,7 @@ Have fun viewing methods that were created through a Test Driven Development fir
 ## Author2
 
 
-👤 **Ukwishaka Levy**
+👤 **UKWISHAKA LEVY**
 - GitHub: [@levy002](https://github.com/levy002)
 - Twitter: [@levy_ukwishaka](https://twitter.com/levy_ukwishaka)
 - LinkedIn: [@levy-ukwishaka](https://www.linkedin.com/in/levy-ukwishaka/)
